@@ -5,7 +5,7 @@ import easyocr,os,time,random,string
 
 class Video_Webcam_Image_OCR:
     def __init__(self):
-        print("Tapez sur la touche 's' pour capturer l'image pour analyser/ touche 'q' pour quitter le programme.")
+        print("Tapez sur la touche 's' pour capturer l'image est pour analyser/ touche 'q' pour quitter le programme.")
         print("[+]1:Webcam \n"
               "[+]2:Video path\n"
               "[+]3:Image path")
