@@ -1,4 +1,11 @@
-# OCR_Python
-##Un programme ocr en python
-#Quand vous charger une video,tapez la touche 's'  est le programme capturera le moment ou vous avez appuyez la touche.
-#Appuyez la touche 'q' pour quitter le programme.
+# OCR
+## Programme écrit en python 
+Il vous faut installer ces module pour utiliser le script (avec pip install <module>)
+- matplotlib
+- cv2
+- easyocr
+
+Vous pouvez utiliser votre webcam,une video ou une image (Precisez le chemin complet)
+
+> Lorsque vous charger une video vous pouvez appuyez sur la touche 's'
+> pour faire une capture d'ecran est le programme l'analysera
